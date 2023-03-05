@@ -1,8 +1,6 @@
 [
     {
-        "id": {
-            "$oid": "6404e551fc13ae48d7000000"
-        },
+        "id": 1,
         "title": "Product Engineer",
         "postBody": "Repair Cisterna Chyli, Percutaneous Approach",
         "description": "Disp fx of nk of l rad, 7thN",
@@ -12,9 +10,7 @@
         "image": "https://i.pinimg.com/originals/6e/6a/94/6e6a94d2b0c454672c26d9e87104ef85.jpg"
     },
     {
-        "id": {
-            "$oid": "6404e551fc13ae48d7000001"
-        },
+        "id": 2,
         "title": "Graphic Designer",
         "postBody": "Insertion of Radioactive Element into Left Knee Region, Percutaneous Endoscopic Approach",
         "description": "Acute contact otitis externa, left ear",
@@ -24,9 +20,7 @@
         "image": "https://i.pinimg.com/originals/6e/6a/94/6e6a94d2b0c454672c26d9e87104ef85.jpg"
     },
     {
-        "id": {
-            "$oid": "6404e551fc13ae48d7000002"
-        },
+        "id": 3,
         "title": "Help Desk Technician",
         "postBody": "Dilation of Left Internal Iliac Artery, Bifurcation, Percutaneous Approach",
         "description": "Burn of second degree of abdominal wall, sequela",
@@ -36,9 +30,7 @@
         "image": "https://i.pinimg.com/originals/6e/6a/94/6e6a94d2b0c454672c26d9e87104ef85.jpg"
     },
     {
-        "id": {
-            "$oid": "6404e551fc13ae48d7000003"
-        },
+        "id": 4,
         "title": "Environmental Tech",
         "postBody": "Drainage of Lower Esophagus, Via Natural or Artificial Opening Endoscopic",
         "description": "Other injury of ovary, unilateral",
@@ -48,9 +40,7 @@
         "image": "https://i.pinimg.com/originals/6e/6a/94/6e6a94d2b0c454672c26d9e87104ef85.jpg"
     },
     {
-        "id": {
-            "$oid": "6404e551fc13ae48d7000004"
-        },
+        "id": 5,
         "title": "Desktop Support Technician",
         "postBody": "Occlusion of Transverse Colon, Via Natural or Artificial Opening",
         "description": "Milt op involving unsp fire/conflagr/hot subst, milt, init",
@@ -60,9 +50,7 @@
         "image": "https://i.pinimg.com/originals/6e/6a/94/6e6a94d2b0c454672c26d9e87104ef85.jpg"
     },
     {
-        "id": {
-            "$oid": "6404e551fc13ae48d7000005"
-        },
+        "id": 6,
         "title": "Nurse",
         "postBody": "Drainage of Right Kidney Pelvis with Drainage Device, Open Approach",
         "description": "Abrasion of unspecified finger, initial encounter",
@@ -72,9 +60,7 @@
         "image": "https://i.pinimg.com/originals/6e/6a/94/6e6a94d2b0c454672c26d9e87104ef85.jpg"
     },
     {
-        "id": {
-            "$oid": "6404e551fc13ae48d7000006"
-        },
+        "id": 7,
         "title": "Environmental Tech",
         "postBody": "Fusion of 2 or more Cervical Vertebral Joints with Autologous Tissue Substitute, Posterior Approach, Anterior Column, Percutaneous Approach",
         "description": "Adverse effect of opth drugs and preparations, init",
@@ -84,9 +70,7 @@
         "image": "https://i.pinimg.com/originals/6e/6a/94/6e6a94d2b0c454672c26d9e87104ef85.jpg"
     },
     {
-        "id": {
-            "$oid": "6404e551fc13ae48d7000007"
-        },
+        "id": 8,
         "title": "Recruiter",
         "postBody": "Extirpation of Matter from Bilateral Seminal Vesicles, Percutaneous Endoscopic Approach",
         "description": "Type AB blood, Rh positive",
@@ -96,9 +80,7 @@
         "image": "https://i.pinimg.com/originals/6e/6a/94/6e6a94d2b0c454672c26d9e87104ef85.jpg"
     },
     {
-        "id": {
-            "$oid": "6404e551fc13ae48d7000008"
-        },
+        "id": 9,
         "title": "Speech Pathologist",
         "postBody": "Replacement of Right Temporal Artery with Synthetic Substitute, Open Approach",
         "description": "Frostbite with tissue necrosis of right toe(s), subs encntr",
@@ -108,9 +90,7 @@
         "image": "https://i.pinimg.com/originals/6e/6a/94/6e6a94d2b0c454672c26d9e87104ef85.jpg"
     },
     {
-        "id": {
-            "$oid": "6404e551fc13ae48d7000009"
-        },
+        "id": 10,
         "title": "Marketing Assistant",
         "postBody": "Supplement Bilateral Inguinal Region with Synthetic Substitute, Percutaneous Endoscopic Approach",
         "description": "Fx tib/fib fol insrt ortho implnt/prosth/bone plt, right leg",
