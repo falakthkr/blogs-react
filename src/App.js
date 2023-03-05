@@ -1,10 +1,10 @@
 import "./App.css";
-import Home from "./pages/Home"
-
+import "./assets/css/main.css";
+import PublicRoutes from "./routes/PublicRoutes"
 function App() {
   return (
     <div className="App">
-      <Home />
+      <PublicRoutes />
     </div>
   );
 }
